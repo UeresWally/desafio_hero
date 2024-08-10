@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C Extensions
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Installers
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test logs, coverage reports, and test results
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.jest/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
